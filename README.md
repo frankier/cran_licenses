@@ -1,0 +1,1 @@
+[Run notebook](https://mybinder.org/v2/gh/frankier/duckbook/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Ffrankier%252Fcran_licenses%26urlpath%3Dretro%252Ftree%252Fcran_licenses%252Fplots.ipynb%26branch%3Dmain)
